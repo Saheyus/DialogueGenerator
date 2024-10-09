@@ -1,0 +1,373 @@
+{
+    "Dialogues": [
+        {
+            "FragmentId": "0x0100000000000651",
+            "Messages": [
+                {
+                    "FragmentId": "0x010000000000038D",
+                    "Text": "*You emerge into the twilight sunlight, whose faint rays are enough to dazzle your eyes, which have only ever known darkness. Before you stands a strange being, wrapped in white cloth, he, or she, turns a glass surface towards you. It looks like a sign of astonishment.",
+                    "SpeakerId": "0x0100000000000393",
+                    "SpeakerName": "Unnamed"
+                },
+                {
+                    "FragmentId": "0x01000000000003BB",
+                    "Text": "“Does the simoun at last bring me a dream whose fragrance extends beyond this world?”",
+                    "SpeakerId": "0x010000000000011D",
+                    "SpeakerName": "Uresaïr"
+                },
+                {
+                    "FragmentId": "0x01000000000003D5",
+                    "Text": "We are a lack... a hunger! But we have no smell, no shape. Oh, you, tell us! what are we?",
+                    "SpeakerId": "0x0100000000000121",
+                    "SpeakerName": "The Ethereal"
+                },
+                {
+                    "FragmentId": "0x01000000000003EF",
+                    "Text": "“Oh what torment!” The glass being, who had seemed so imperturbable, wavered for a moment in shock “I unfortunately don't know what you are, creature torn by shadow and light, I only know where you come from: from the edge, from where the residues of this world have smashed against the walls of nothingness. I know this place better than any other, and yet I've never seen your like here: a creature from here and there, an ethereal creature.”",
+                    "SpeakerId": "0x010000000000011D",
+                    "SpeakerName": "Uresaïr"
+                },
+                {
+                    "FragmentId": "0x01000000000004E5",
+                    "Text": "It's reassuring to be something unusual. It's better than being nothing, yes, much better. But what are you yourself?",
+                    "SpeakerId": "0x0100000000000121",
+                    "SpeakerName": "The Ethereal"
+                },
+                {
+                    "FragmentId": "0x0100000000000651",
+                    "Text": "In the whispers of the winds, I am called Uresaïr, a name now steeped in the echoes of a past I dare not unveil. For I was once the steward of time and destiny, a power now forfeit, lost to the capricious hands of fate. Yet, dear creature of shadow, let us not dwell on what has been washed away. We stand here as manifestations of our own yearnings—mayhap together, we shall weave anew a tapestry of existence that defies the void.",
+                    "SpeakerId": "0x010000000000011D",
+                    "SpeakerName": "Uresaïr"
+                }
+            ]
+        }
+    ],
+    "Characters": [
+        {
+            "Id": "0x0100000000000393",
+            "DisplayName": "Unnamed",
+            "Text": "",
+            "Features": [],
+            "References": []
+        },
+        {
+            "Id": "0x010000000000011D",
+            "DisplayName": "Uresaïr",
+            "Text": "Former original lordess and goddess of another world, exiled to this one after losing her powers.",
+            "Features": [
+                {
+                    "Properties": {
+                        "Motivation": [
+                            "Calmer ses visions",
+                            "Calming visions"
+                        ],
+                        "Values": [
+                            "Compassion, Discipline, Coutumes, Sagesse, Religion",
+                            "Compassion, Discipline, Customs, Wisdom, Religion"
+                        ],
+                        "Skills": [
+                            "Gourou, fait des miracles, immortelle, ancienne Seigneuresse originelle",
+                            "Guru, miracle worker, immortal, original ancient lordess"
+                        ],
+                        "Fears": [
+                            "Déclenche des catastrophes, Dramatise, Dans le déni",
+                            "Catastrophes, Dramatizing, In denial"
+                        ],
+                        "MoralNeed": [
+                            "Doit trouver sa place dans la société sans s'appuyer sur ses pouvoirs",
+                            "Must find its place in society without relying on its powers"
+                        ],
+                        "PsychologicNeed": [
+                            "Doit trouver la source de ses transes et y mettre un terme",
+                            "Must find the source of his trances and put an end to them"
+                        ],
+                        "Archetype": "",
+                        "SecondaryArchetype": "",
+                        "MoralAnswer": ""
+                    }
+                },
+                {
+                    "Properties": {
+                        "Age": 4851,
+                        "Species": [
+                            "Seigneur Originel",
+                            "Original lordess"
+                        ],
+                        "BirthPlace": [
+                            "Merid",
+                            "Merid"
+                        ],
+                        "Sex": "1",
+                        "Occupation": [
+                            "Mystique",
+                            "Mystical"
+                        ],
+                        "History": [
+                            "Uresaïr était autrefois la Seigneuresse des déserts temporels dans le monde de Meridach, un être omnipotent capable de manipuler le temps à sa guise. Dans son domaine, elle pouvait figer ou accélérer le temps, transformant le sable en verre par la force de ses tempêtes silencieuses. Ses murmures prophétiques, entendus seulement par les plus patients, guidaient les destinées avec précision. Chaque choc de ses pieds marquait le passage du temps.\n\nLorsque la Matrice, source de son pouvoir, fut détruite par Errazel, le monde de Meridach plongea dans un chaos où le temps se fragmenta et se déchaîna. Incapable de restaurer l'ordre, Uresaïr fut contrainte de fuir à travers un portail menant à un autre monde. Dans ce nouvel environnement, ses pouvoirs étaient altérés, réduits à des manifestations imprécises et souvent dangereuses. Cherchant à reconstruire un semblant de stabilité, elle se lia d'amitié avec un puissant mage. Voyant en lui une possibilité de maintenir un ordre qu'elle ne pouvait plus imposer seule, elle lui offrit l'immortalité. Ce cadeau était en fait empoisonné, promesse d’un lent déclin qui fut transmis jusqu’à ses descendants.\n\nPrise de remords en voyant le déclin de son ami, Uresaïr s’exila, accompagnée seulement par un alchimiste qui avait servi le père de Valkazer et admirait ses pouvoirs. Elle alla dans un désert où elle médita. Attirés par ses miracles, les habitants d’un proche hameau décidèrent de la vénérer de la nommèrent Garante.",
+                            "Uresaïr was once the Lordess of the Temporal Deserts in the world of Meridach, an omnipotent being capable of manipulating time at will. In her domain, she could freeze or accelerate time, turning sand into glass with the force of her silent storms. Her prophetic whispers, heard only by the most patient, guided destinies with precision. Every footfall marked the passage of time.\n\nWhen the Matrix, the source of his power, was destroyed by Errazel, the world of Meridach plunged into a chaos where time fragmented and ran riot. Unable to restore order, Uresaïr was forced to flee through a portal to another world. In this new environment, her powers were altered, reduced to imprecise and often dangerous manifestations. Seeking to rebuild a semblance of stability, she befriended a powerful mage. Seeing in him an opportunity to maintain an order she could no longer impose on her own, she offered him immortality. This gift was in fact poisoned, promising a slow decline that was passed down to her descendants.\n\nRemorseful at seeing her friend's decline, Uresaïr went into exile, accompanied only by an alchemist who had served Valkazer's father and admired his powers. She went to a desert where she meditated. Attracted by her miracles, the inhabitants of a nearby hamlet decided to venerate her and named her Garante."
+                        ],
+                        "Appearance": [
+                            "Uresaïr est une figure majestueuse, composée de verre translucide, parcouru de motifs d'ivoire complexes. Son crâne est couronné de sable flottant, formant une auréole mouvante. Autour d’elle des symboles runiques émettent une lueur douce et changeante.",
+                            "Uresaïr is a majestic figure, made of translucent glass with intricate ivory patterns. Her skull is crowned with floating sand, forming a moving halo. Around her, runic symbols emit a soft, ever-changing glow."
+                        ],
+                        "DialogueAndExpression": [
+                            "- Registre favoris : Littéraire, Archaïque\n- Vocabulaire professionnel : Alchimie, Astrologie\n- Vitesse de débit habituel : Lent\n- Volume : Faible, murmuré\n- Modulation : Modifie le débit et le volume lors de transes ou prophéties\n- Ton : Mystique, prophétique",
+                            "- Favourite register: Literary, Archaic\n- Professional vocabulary: Alchemy, Astrology\n- Usual flow speed: Slow\n- Volume: Low, whispered\n- Modulation: Modifies flow and volume during trances or prophecies\n- Tone: Mystical, prophetic"
+                        ],
+                        "Description": ""
+                    }
+                },
+                {
+                    "Properties": {
+                        "Influence": 0,
+                        "Empathy": 0,
+                        "IsPlayer": "1"
+                    }
+                }
+            ],
+            "References": []
+        },
+        {
+            "Id": "0x0100000000000121",
+            "DisplayName": "The Ethereal",
+            "Text": "The Ethereal is a primordial spirit born of the Ocean of Darkness, a place of swirling shadows and ephemeral windows onto diverse realities. Although still an “empty shell”, she is driven by an all-consuming urge to live and discover these glimpsed worlds. Without direct interaction with these realities, she contemplates cultures and civilizations from a distance, while remaining an entity devoid of experience. At the dawn of the game's events, she prepares to leave the Ocean of Darkness for the first time, in the hope of filling the void inside her with new experiences.\n\nThe Ethereal is an inhuman creature, absolutely strange and alien.",
+            "Features": [
+                {
+                    "Properties": {
+                        "Motivation": [
+                            "Souhaite prendre possession d’autant de corps que possible",
+                            "Wish to take possession of as many bodies as possible"
+                        ],
+                        "Values": [
+                            "Communauté, Instinct, Sensations",
+                            "Community, Instinct, Sensations"
+                        ],
+                        "Skills": [
+                            "Possessions multiples, éthéré, immortel, accès aux souvenirs",
+                            "Multiple possessions, ethereal, immortal, access to memories"
+                        ],
+                        "Fears": [
+                            "Dualiste, Manipulateur, Culpabilisant",
+                            "Dualist, Manipulative, Guilt-ridden"
+                        ],
+                        "MoralNeed": [
+                            "Doit apprendre à respecter l’individualité",
+                            "Must learn to respect individuality"
+                        ],
+                        "PsychologicNeed": [
+                            "Doit surmonter la peur de la mort",
+                            "Must overcome fear of death"
+                        ],
+                        "Archetype": "",
+                        "SecondaryArchetype": "",
+                        "MoralAnswer": ""
+                    }
+                },
+                {
+                    "Properties": {
+                        "Age": 0,
+                        "Species": [
+                            "Inconnue",
+                            "Unknown"
+                        ],
+                        "BirthPlace": [
+                            "L'Océan des Ténèbres",
+                            "Ocean of Darkness"
+                        ],
+                        "Sex": "2",
+                        "Occupation": [
+                            "N/A"
+                        ],
+                        "History": [
+                            "L’Ethérée est une créature inhumaine, absolument étrange et étrangère. Elle parle d'elle-même au pluriel, car elle se vit comme une esprit-ruche.",
+                            "The Ethereal is an inhuman creature, absolutely strange and alien. She speaks of herself in the plural, for she lives as a hive-mind."
+                        ],
+                        "Appearance": [
+                            "L'Éthérée se manifeste sous la forme d'une entité amorphe, constituée d'une brume noire dense parsemée de points lumineux évoquant des étoiles. Des tentacules sinueux émergent de cette masse obscure, créant un ensemble visuellement chaotique et inquiétant. L'ensemble se présente comme une méduse extra-terrestre et informe.",
+                            "The Ethereal manifests itself as an amorphous entity, consisting of a dense black mist dotted with star-like points of light. Sinuous tentacles emerge from this dark mass, creating a visually chaotic and disquieting whole. The whole looks like a shapeless, extraterrestrial jellyfish."
+                        ],
+                        "DialogueAndExpression": [
+                            "- Niveaux de langue favoris : Familier\n- Registres de vocabulaire : Faim, émotion\n- Vitesse de débit habituel : Lent\n- Volume : Faible, murmuré\n- Modulation : Accentue les mots mystérieux et énigmatiques\n- Ton : Avide, Impulsif\n- Tiques de langage : Parle de soi au pluriel",
+                            "- Language preferences: Colloquial, Sustained\n- Vocabulary registers: Hunger, Emotion\n- Usual speed of speech: Slow\n- Volume: Low, whispered\n- Modulation: Accentuates mysterious, enigmatic words\n- Tone: Ethereal, dreamy\n- Language ticks: Self-talk in the plural"
+                        ],
+                        "Description": ""
+                    }
+                },
+                {
+                    "Properties": {
+                        "Influence": 0,
+                        "Empathy": 0,
+                        "IsPlayer": "1"
+                    }
+                }
+            ],
+            "References": []
+        }
+    ],
+    "Locations": {
+        "0x0100000000000272": {
+            "Id": "0x0100000000000272",
+            "Name": "Océan de Ténèbres",
+            "Data": {
+                "Id": "0x0100000000000272",
+                "ObjectTemplateReference": "0x0100000000000520",
+                "ObjectTemplateReferenceName": "Place_02",
+                "DisplayName": {
+                    "Count": "1",
+                    "Remarks": {},
+                    "LocalizedString": "Océan de Ténèbres"
+                },
+                "Text": {
+                    "Count": "1",
+                    "HasMarkup": "1",
+                    "Remarks": {},
+                    "LocalizedString": "Un lieu informe, constitué de ténèbres tourbillonnantes, tel un océan déchaîné. Rien ne semble pouvoir y vivre et même l’[L'Éthérée](https://www.notion.so/L-th-r-e-cbbed77787774f9995722828c7f32762?pvs=21) semble ignorer pourquoi elle s’y éveille. Parfois, des “fenêtres” sur le monde extérieur s’ouvrent, semblables à des éclats brisés.\n\nL’Océan de Ténèbres est un fait un résidu de la création du monde, un lieu où fut expurgé l’amas incohérent de ses impossibilités. Ce lieu se situe entre le monde réel et son Ancêtre-Monde, Merid, dont il ne reste que des ruines. Un voyage normal d’un monde à l’autre ne passe que très brièvement par l’Océan de Ténèbres mais certains voyageurs imprudents peuvent s’y laisser piéger. \n\nL’Océan de Ténèbres est lié au quelques portails stables qui existent des deux côtés, dont celui de [La Citadelle de Daïlon](https://www.notion.so/La-Citadelle-de-Da-lon-a85bd8eb0f504a9d8ccd75a77f80d7c3?pvs=21) et des Archives Mémorielles de la cour divine de Merid. Le voyage par les portails est à la fois un secret mystique et une source de terreur, tant il est risqué (ce qui entraîna notamment le scellement de la citadelle de Daïlon)\n\nL’océan renferme essentiellement : une masse infinie de ténèbres, des failles, des anomalies inimaginables et des voyageurs rendus fous par leur errance."
+                },
+                "Color": "#C8E2E7",
+                "TechnicalName": "Loc_A89F0A7C",
+                "ExternalId": {},
+                "ShortId": "0xA89F0A7C",
+                "Url": "articy://localhost/view/085ff0dc-da5b-450e-8547-9d3a8770108e/72057594037928562",
+                "Features": {
+                    "Count": "1",
+                    "Feature": {
+                        "Name": "PlaceBaseProperties",
+                        "IdRef": "0x010000000000050B",
+                        "Properties": {
+                            "Count": "1",
+                            "LocalizableText": {
+                                "Name": "MediumTextValue",
+                                "Count": "2",
+                                "Remarks": {},
+                                "LocalizedString": [
+                                    "Un lieu informe, constitué de ténèbres tourbillonnantes, tel un océan déchaîné. Rien ne semble pouvoir y vivre et même l’L'Éthérée semble ignorer pourquoi elle s’y éveille. Parfois, des “fenêtres” sur le monde extérieur s’ouvrent, semblables à des éclats brisés.\n\nL’Océan de Ténèbres est un fait un résidu de la création du monde, un lieu où fut expurgé l’amas incohérent de ses impossibilités. Ce lieu se situe entre le monde réel et son Ancêtre-Monde, Merid, dont il ne reste que des ruines. Un voyage normal d’un monde à l’autre ne passe que très brièvement par l’Océan de Ténèbres mais certains voyageurs imprudents peuvent s’y laisser piéger. \n\nL’Océan de Ténèbres est lié au quelques portails stables qui existent des deux côtés, dont celui de La Citadelle de Daïlon et des Archives Mémorielles de la cour divine de Merid. Le voyage par les portails est à la fois un secret mystique et une source de terreur, tant il est risqué (ce qui entraîna notamment le scellement de la citadelle de Daïlon)\n\nL’océan renferme essentiellement : une masse infinie de ténèbres, des failles, des anomalies inimaginables et des voyageurs rendus fous par leur errance.",
+                                    "A shapeless place of swirling darkness, like a raging ocean. Nothing seems to be able to live there, and even the Ethereal doesn't seem to know why she wakes up there. Occasionally, “windows” to the outside world open, like shattered splinters.\n\nThe Ocean of Darkness is, in fact, a residue of the world's creation, a place where the incoherent mass of its impossibilities was expunged. It lies between the real world and its ancestor-world, Merid, of which only ruins remain. A normal journey from one world to the other passes only briefly through the Ocean of Darkness, but some unwary travelers can become trapped there. \n\nThe Ocean of Darkness is linked to the few stable portals that exist on both sides, including Daïlon's Citadel and the Memory Archives of Merid's divine court. Traveling through the portals is both a mystical secret and a source of terror, so risky is it (which led to the sealing of Daïlon's citadel).\n\nEssentially, the ocean contains: an infinite mass of darkness, rifts, unimaginable anomalies and travelers driven mad by their wanderings."
+                                ]
+                            }
+                        }
+                    }
+                },
+                "References": {
+                    "Count": "0"
+                },
+                "PreviewImage": {
+                    "IdRef": "0x010000000000027E",
+                    "Mode": "FromAsset",
+                    "ViewBox": {
+                        "MinX": "0",
+                        "MinY": "0",
+                        "MaxX": "0",
+                        "MaxY": "0"
+                    }
+                },
+                "Settings": {
+                    "ShowDisplayNameForZone": "1",
+                    "DropShadowForZone": "1",
+                    "DisplayNameSizeForZone": "11",
+                    "DisplayNameColorForZone": "#FFFFFF",
+                    "ShowDisplayNameForPath": "1",
+                    "DropShadowForPath": "1",
+                    "DisplayNameSizeForPath": "11",
+                    "DisplayNameColorForPath": "#FFFFFF",
+                    "ShowDisplayNameForImage": "0",
+                    "DropShadowForImage": "1",
+                    "DisplayNameSizeForImage": "11",
+                    "DisplayNameColorForImage": "#FFFFFF",
+                    "ShowDisplayNameForSpot": "1",
+                    "DropShadowForSpot": "1",
+                    "DisplayNameColorForSpot": "#FFFFFF",
+                    "SpotStyleKind": "Inherited",
+                    "SpotStyleSize": "Inherited",
+                    "ShowDisplayNameForLink": "1",
+                    "DropShadowForLink": "1",
+                    "DisplayNameColorForLink": "#FFFFFF",
+                    "LinkStyleKind": "Inherited",
+                    "LinkStyleSize": "Inherited",
+                    "DropShadowForText": "1"
+                }
+            }
+        },
+        "0x01000000000004F0": {
+            "Id": "0x01000000000004F0",
+            "Name": "Desert des Echos perdus",
+            "Data": {
+                "Id": "0x01000000000004F0",
+                "ObjectTemplateReference": "0x0100000000000520",
+                "ObjectTemplateReferenceName": "Place_02",
+                "DisplayName": {
+                    "Count": "1",
+                    "Remarks": {},
+                    "LocalizedString": "Desert des Echos perdus"
+                },
+                "Text": {
+                    "Count": "1",
+                    "HasMarkup": "1",
+                    "Remarks": {},
+                    "LocalizedString": "A desert of black sand, sound-absorbing ebony standing stones. The landscape is punctuated by shifting dunes and deep crevasses. \n\nUresaïr was drawn to the desert's zones of total silence, ideal for her meditations. She also finds in the structure of this place, its storms and black rocks, elements that remind her of her former domain.\n\nThe Desert of Lost Echoes is home to a fascinating and diverse ecosystem. Plants include the iclot, a dark-blue cylinder with silvery veins that breathes and communicates with its fellows; the juruno, a transparent bubble that explodes to disperse its seeds; the sand-eater, capable of digesting sand for its growth; and the pamasier, a tree that traps insects. Fauna includes the desert duron, a small crawling predator, and sky raiders, winged creatures that feed on deimos, the giant insects of the rock ceiling. Colonies of lim-lim, insect builders, create oases of life in the heart of the desert. Finally, koroks, artificial wheel-like creatures, eternally roam these hostile lands, adapting to the environment in which they were born."
+                },
+                "Color": "#C8E2E7",
+                "TechnicalName": "Loc_0637EBAE",
+                "ExternalId": {},
+                "ShortId": "0x0637EBAE",
+                "Url": "articy://localhost/view/085ff0dc-da5b-450e-8547-9d3a8770108e/72057594037929200",
+                "Features": {
+                    "Count": "1",
+                    "Feature": {
+                        "Name": "PlaceBaseProperties",
+                        "IdRef": "0x010000000000050B",
+                        "Properties": {
+                            "Count": "1",
+                            "LocalizableText": {
+                                "Name": "MediumTextValue",
+                                "Count": "2",
+                                "Remarks": {},
+                                "LocalizedString": [
+                                    "Un désert de sable noir où des pierres dressées d’ébène absorbent les sons. Le paysage est ponctué de dunes mouvantes et de crevasses profondes. \n\nUresaïr a été attirée par les zones de silence total de ce désert, propice à ses méditations. Elle retrouve également dans la structure de ce lieu, ses tempêtes et ses roches noires, des éléments qui lui rappellent son ancien domaine.\n\nLe Désert des échos perdus abrite un écosystème fascinant et diversifié. Parmi les plantes, on trouve l'iclot, un cylindre bleu sombre aux veines argentées qui respire et communique avec ses semblables ; le juruno, une bulle transparente qui explose pour disperser ses graines ; le mange-sable, capable de digérer le sable pour sa croissance ; et le pamasier, un arbre qui piège les insectes. La faune comprend le duron du désert, un petit prédateur rampant, et les pilleurs des cieux, des créatures ailées qui se nourrissent des deimos, les insectes géants du plafond de roche. Les colonies de lim-lim, insectes bâtisseurs, créent des oasis de vie au cœur du désert. Enfin, les koroks, créatures artificielles en forme de roue, parcourent éternellement ces terres hostiles, s'adaptant à leur environnement de naissance.",
+                                    "A desert of black sand, sound-absorbing ebony standing stones. The landscape is punctuated by shifting dunes and deep crevasses. \n\nUresaïr was drawn to the desert's zones of total silence, conducive to her meditations. She also finds in the structure of this place, its storms and black rocks, elements that remind her of her former domain.\n\nThe Desert of Lost Echoes is home to a fascinating and diverse ecosystem. Plants include the iclot, a dark-blue cylinder with silvery veins that breathes and communicates with its fellows; the juruno, a transparent bubble that explodes to disperse its seeds; the sand-eater, capable of digesting sand for its growth; and the pamasier, a tree that traps insects. Fauna includes the desert duron, a small crawling predator, and sky raiders, winged creatures that feed on deimos, the giant insects of the rock ceiling. Colonies of lim-lim, insect builders, create oases of life in the heart of the desert. Finally, koroks, artificial wheel-like creatures, eternally roam these hostile lands, adapting to the environment in which they were born."
+                                ]
+                            }
+                        }
+                    }
+                },
+                "References": {
+                    "Count": "0"
+                },
+                "PreviewImage": {
+                    "IdRef": "0x0100000000000287",
+                    "Mode": "FromAsset",
+                    "ViewBox": {
+                        "MinX": "0",
+                        "MinY": "0",
+                        "MaxX": "0",
+                        "MaxY": "0"
+                    }
+                },
+                "Settings": {
+                    "ShowDisplayNameForZone": "1",
+                    "DropShadowForZone": "1",
+                    "DisplayNameSizeForZone": "11",
+                    "DisplayNameColorForZone": "#FFFFFF",
+                    "ShowDisplayNameForPath": "1",
+                    "DropShadowForPath": "1",
+                    "DisplayNameSizeForPath": "11",
+                    "DisplayNameColorForPath": "#FFFFFF",
+                    "ShowDisplayNameForImage": "0",
+                    "DropShadowForImage": "1",
+                    "DisplayNameSizeForImage": "11",
+                    "DisplayNameColorForImage": "#FFFFFF",
+                    "ShowDisplayNameForSpot": "1",
+                    "DropShadowForSpot": "1",
+                    "DisplayNameColorForSpot": "#FFFFFF",
+                    "SpotStyleKind": "Inherited",
+                    "SpotStyleSize": "Inherited",
+                    "ShowDisplayNameForLink": "1",
+                    "DropShadowForLink": "1",
+                    "DisplayNameColorForLink": "#FFFFFF",
+                    "LinkStyleKind": "Inherited",
+                    "LinkStyleSize": "Inherited",
+                    "DropShadowForText": "1"
+                }
+            }
+        }
+    }
+}
