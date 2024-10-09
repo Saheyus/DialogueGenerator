@@ -1,7 +1,7 @@
 {
     "Dialogues": [
         {
-            "FragmentId": "0x0100000000000651",
+            "FragmentId": "0x01000000000003C9",
             "Messages": [
                 {
                     "FragmentId": "0x010000000000038D",
@@ -16,33 +16,91 @@
                     "SpeakerName": "Uresaïr"
                 },
                 {
-                    "FragmentId": "0x01000000000003D5",
-                    "Text": "We are a lack... a hunger! But we have no smell, no shape. Oh, you, tell us! what are we?",
+                    "FragmentId": "0x01000000000003C9",
+                    "Text": "You speak of dreams as one speaks of spectres. We sense that you have seen further than you would have liked.",
                     "SpeakerId": "0x0100000000000121",
                     "SpeakerName": "The Ethereal"
-                },
-                {
-                    "FragmentId": "0x01000000000003EF",
-                    "Text": "“Oh what torment!” The glass being, who had seemed so imperturbable, wavered for a moment in shock “I unfortunately don't know what you are, creature torn by shadow and light, I only know where you come from: from the edge, from where the residues of this world have smashed against the walls of nothingness. I know this place better than any other, and yet I've never seen your like here: a creature from here and there, an ethereal creature.”",
-                    "SpeakerId": "0x010000000000011D",
-                    "SpeakerName": "Uresaïr"
-                },
-                {
-                    "FragmentId": "0x01000000000004E5",
-                    "Text": "It's reassuring to be something unusual. It's better than being nothing, yes, much better. But what are you yourself?",
-                    "SpeakerId": "0x0100000000000121",
-                    "SpeakerName": "The Ethereal"
-                },
-                {
-                    "FragmentId": "0x0100000000000651",
-                    "Text": "In the whispers of the winds, I am called Uresaïr, a name now steeped in the echoes of a past I dare not unveil. For I was once the steward of time and destiny, a power now forfeit, lost to the capricious hands of fate. Yet, dear creature of shadow, let us not dwell on what has been washed away. We stand here as manifestations of our own yearnings—mayhap together, we shall weave anew a tapestry of existence that defies the void.",
-                    "SpeakerId": "0x010000000000011D",
-                    "SpeakerName": "Uresaïr"
                 }
             ]
         }
     ],
     "Characters": [
+        {
+            "Id": "0x0100000000000121",
+            "DisplayName": "The Ethereal",
+            "Text": "The Ethereal is a primordial spirit born of the Ocean of Darkness, a place of swirling shadows and ephemeral windows onto diverse realities. Although still an “empty shell”, she is driven by an all-consuming urge to live and discover these glimpsed worlds. Without direct interaction with these realities, she contemplates cultures and civilizations from a distance, while remaining an entity devoid of experience. At the dawn of the game's events, she prepares to leave the Ocean of Darkness for the first time, in the hope of filling the void inside her with new experiences.\n\nThe Ethereal is an inhuman creature, absolutely strange and alien.",
+            "Features": [
+                {
+                    "Properties": {
+                        "Motivation": [
+                            "Souhaite prendre possession d’autant de corps que possible",
+                            "Wish to take possession of as many bodies as possible"
+                        ],
+                        "Values": [
+                            "Communauté, Instinct, Sensations",
+                            "Community, Instinct, Sensations"
+                        ],
+                        "Skills": [
+                            "Possessions multiples, éthéré, immortel, accès aux souvenirs",
+                            "Multiple possessions, ethereal, immortal, access to memories"
+                        ],
+                        "Fears": [
+                            "Dualiste, Manipulateur, Culpabilisant",
+                            "Dualist, Manipulative, Guilt-ridden"
+                        ],
+                        "MoralNeed": [
+                            "Doit apprendre à respecter l’individualité",
+                            "Must learn to respect individuality"
+                        ],
+                        "PsychologicNeed": [
+                            "Doit surmonter la peur de la mort",
+                            "Must overcome fear of death"
+                        ],
+                        "Archetype": "",
+                        "SecondaryArchetype": "",
+                        "MoralAnswer": ""
+                    }
+                },
+                {
+                    "Properties": {
+                        "Age": 0,
+                        "Species": [
+                            "Inconnue",
+                            "Unknown"
+                        ],
+                        "BirthPlace": [
+                            "L'Océan des Ténèbres",
+                            "Ocean of Darkness"
+                        ],
+                        "Sex": "2",
+                        "Occupation": [
+                            "N/A"
+                        ],
+                        "History": [
+                            "L’Ethérée est une créature inhumaine, absolument étrange et étrangère. Elle parle d'elle-même au pluriel, car elle se vit comme une esprit-ruche.",
+                            "The Ethereal is an inhuman creature, absolutely strange and alien. She speaks of herself in the plural, for she lives as a hive-mind."
+                        ],
+                        "Appearance": [
+                            "L'Éthérée se manifeste sous la forme d'une entité amorphe, constituée d'une brume noire dense parsemée de points lumineux évoquant des étoiles. Des tentacules sinueux émergent de cette masse obscure, créant un ensemble visuellement chaotique et inquiétant. L'ensemble se présente comme une méduse extra-terrestre et informe.",
+                            "The Ethereal manifests itself as an amorphous entity, consisting of a dense black mist dotted with star-like points of light. Sinuous tentacles emerge from this dark mass, creating a visually chaotic and disquieting whole. The whole looks like a shapeless, extraterrestrial jellyfish."
+                        ],
+                        "DialogueAndExpression": [
+                            "- Niveaux de langue favoris : Familier\n- Registres de vocabulaire : Faim, émotion\n- Vitesse de débit habituel : Lent\n- Volume : Faible, murmuré\n- Modulation : Accentue les mots mystérieux et énigmatiques\n- Ton : Avide, Impulsif\n- Tiques de langage : Parle de soi au pluriel",
+                            "- Language preferences: Colloquial, Sustained\n- Vocabulary registers: Hunger, Emotion\n- Usual speed of speech: Slow\n- Volume: Low, whispered\n- Modulation: Accentuates mysterious, enigmatic words\n- Tone: Ethereal, dreamy\n- Language ticks: Self-talk in the plural"
+                        ],
+                        "Description": ""
+                    }
+                },
+                {
+                    "Properties": {
+                        "Influence": 0,
+                        "Empathy": 0,
+                        "IsPlayer": "1"
+                    }
+                }
+            ],
+            "References": []
+        },
         {
             "Id": "0x0100000000000393",
             "DisplayName": "Unnamed",
@@ -113,82 +171,6 @@
                         "DialogueAndExpression": [
                             "- Registre favoris : Littéraire, Archaïque\n- Vocabulaire professionnel : Alchimie, Astrologie\n- Vitesse de débit habituel : Lent\n- Volume : Faible, murmuré\n- Modulation : Modifie le débit et le volume lors de transes ou prophéties\n- Ton : Mystique, prophétique",
                             "- Favourite register: Literary, Archaic\n- Professional vocabulary: Alchemy, Astrology\n- Usual flow speed: Slow\n- Volume: Low, whispered\n- Modulation: Modifies flow and volume during trances or prophecies\n- Tone: Mystical, prophetic"
-                        ],
-                        "Description": ""
-                    }
-                },
-                {
-                    "Properties": {
-                        "Influence": 0,
-                        "Empathy": 0,
-                        "IsPlayer": "1"
-                    }
-                }
-            ],
-            "References": []
-        },
-        {
-            "Id": "0x0100000000000121",
-            "DisplayName": "The Ethereal",
-            "Text": "The Ethereal is a primordial spirit born of the Ocean of Darkness, a place of swirling shadows and ephemeral windows onto diverse realities. Although still an “empty shell”, she is driven by an all-consuming urge to live and discover these glimpsed worlds. Without direct interaction with these realities, she contemplates cultures and civilizations from a distance, while remaining an entity devoid of experience. At the dawn of the game's events, she prepares to leave the Ocean of Darkness for the first time, in the hope of filling the void inside her with new experiences.\n\nThe Ethereal is an inhuman creature, absolutely strange and alien.",
-            "Features": [
-                {
-                    "Properties": {
-                        "Motivation": [
-                            "Souhaite prendre possession d’autant de corps que possible",
-                            "Wish to take possession of as many bodies as possible"
-                        ],
-                        "Values": [
-                            "Communauté, Instinct, Sensations",
-                            "Community, Instinct, Sensations"
-                        ],
-                        "Skills": [
-                            "Possessions multiples, éthéré, immortel, accès aux souvenirs",
-                            "Multiple possessions, ethereal, immortal, access to memories"
-                        ],
-                        "Fears": [
-                            "Dualiste, Manipulateur, Culpabilisant",
-                            "Dualist, Manipulative, Guilt-ridden"
-                        ],
-                        "MoralNeed": [
-                            "Doit apprendre à respecter l’individualité",
-                            "Must learn to respect individuality"
-                        ],
-                        "PsychologicNeed": [
-                            "Doit surmonter la peur de la mort",
-                            "Must overcome fear of death"
-                        ],
-                        "Archetype": "",
-                        "SecondaryArchetype": "",
-                        "MoralAnswer": ""
-                    }
-                },
-                {
-                    "Properties": {
-                        "Age": 0,
-                        "Species": [
-                            "Inconnue",
-                            "Unknown"
-                        ],
-                        "BirthPlace": [
-                            "L'Océan des Ténèbres",
-                            "Ocean of Darkness"
-                        ],
-                        "Sex": "2",
-                        "Occupation": [
-                            "N/A"
-                        ],
-                        "History": [
-                            "L’Ethérée est une créature inhumaine, absolument étrange et étrangère. Elle parle d'elle-même au pluriel, car elle se vit comme une esprit-ruche.",
-                            "The Ethereal is an inhuman creature, absolutely strange and alien. She speaks of herself in the plural, for she lives as a hive-mind."
-                        ],
-                        "Appearance": [
-                            "L'Éthérée se manifeste sous la forme d'une entité amorphe, constituée d'une brume noire dense parsemée de points lumineux évoquant des étoiles. Des tentacules sinueux émergent de cette masse obscure, créant un ensemble visuellement chaotique et inquiétant. L'ensemble se présente comme une méduse extra-terrestre et informe.",
-                            "The Ethereal manifests itself as an amorphous entity, consisting of a dense black mist dotted with star-like points of light. Sinuous tentacles emerge from this dark mass, creating a visually chaotic and disquieting whole. The whole looks like a shapeless, extraterrestrial jellyfish."
-                        ],
-                        "DialogueAndExpression": [
-                            "- Niveaux de langue favoris : Familier\n- Registres de vocabulaire : Faim, émotion\n- Vitesse de débit habituel : Lent\n- Volume : Faible, murmuré\n- Modulation : Accentue les mots mystérieux et énigmatiques\n- Ton : Avide, Impulsif\n- Tiques de langage : Parle de soi au pluriel",
-                            "- Language preferences: Colloquial, Sustained\n- Vocabulary registers: Hunger, Emotion\n- Usual speed of speech: Slow\n- Volume: Low, whispered\n- Modulation: Accentuates mysterious, enigmatic words\n- Tone: Ethereal, dreamy\n- Language ticks: Self-talk in the plural"
                         ],
                         "Description": ""
                     }

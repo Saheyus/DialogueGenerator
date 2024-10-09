@@ -1,5 +1,5 @@
 @echo off
-cd /d "F:\Projets\ArticyExtraction"
+cd /d ".\"
 
 :: Set log level to DEBUG globally (this will affect the whole session)
 setx LOG_LEVEL DEBUG
