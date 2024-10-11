@@ -1,7 +1,7 @@
 {
     "Dialogues": [
         {
-            "FragmentId": "0x01000000000003C9",
+            "FragmentId": "0x010000000000067D",
             "Messages": [
                 {
                     "FragmentId": "0x010000000000038D",
@@ -16,8 +16,32 @@
                     "SpeakerName": "Uresaïr"
                 },
                 {
-                    "FragmentId": "0x01000000000003C9",
-                    "Text": "You speak of dreams as one speaks of spectres. We sense that you have seen further than you would have liked.",
+                    "FragmentId": "0x01000000000003D5",
+                    "Text": "We are a lack... a hunger! But we have no smell, no shape. Oh, you, tell us! what are we?",
+                    "SpeakerId": "0x0100000000000121",
+                    "SpeakerName": "The Ethereal"
+                },
+                {
+                    "FragmentId": "0x01000000000003EF",
+                    "Text": "“Oh what torment!” The glass being, who had seemed so imperturbable, wavered for a moment in shock “I unfortunately don't know what you are, creature torn by shadow and light, I only know where you come from: from the edge, from where the residues of this world have smashed against the walls of nothingness. I know this place better than any other, and yet I've never seen your like here: a creature from here and there, an ethereal creature.”",
+                    "SpeakerId": "0x010000000000011D",
+                    "SpeakerName": "Uresaïr"
+                },
+                {
+                    "FragmentId": "0x01000000000004DF",
+                    "Text": "An ethereal thing... yes that's what we are, the... no, the Ethereal.",
+                    "SpeakerId": "0x0100000000000121",
+                    "SpeakerName": "The Ethereal"
+                },
+                {
+                    "FragmentId": "0x0100000000000658",
+                    "Text": "Ethereal, you are the fleeting breath of existence, a shimmering reflection of aspiration itself. In your emptiness, can't you feel the pulse of life? For to be hungry is to be alive!",
+                    "SpeakerId": "0x010000000000011D",
+                    "SpeakerName": "Uresaïr"
+                },
+                {
+                    "FragmentId": "0x010000000000067D",
+                    "Text": "Yes, yes! To be without form yet filled with... hunger! Is this the echo of existence? We crave a name, a shape for the nameless one who gifted us this truth—who are you? What life do you conceal beneath your blinding veil?",
                     "SpeakerId": "0x0100000000000121",
                     "SpeakerName": "The Ethereal"
                 }
@@ -25,6 +49,13 @@
         }
     ],
     "Characters": [
+        {
+            "Id": "0x0100000000000393",
+            "DisplayName": "Unnamed",
+            "Text": "",
+            "Features": [],
+            "References": []
+        },
         {
             "Id": "0x0100000000000121",
             "DisplayName": "The Ethereal",
@@ -99,13 +130,6 @@
                     }
                 }
             ],
-            "References": []
-        },
-        {
-            "Id": "0x0100000000000393",
-            "DisplayName": "Unnamed",
-            "Text": "",
-            "Features": [],
             "References": []
         },
         {

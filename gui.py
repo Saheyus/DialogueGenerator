@@ -1,4 +1,4 @@
-# main_gui.py
+# gui.py
 import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
 import tkinter as tk
@@ -16,7 +16,7 @@ class AlteirExtractorGUI:
     def __init__(self, master):
         self.master = master  # Utiliser la fenêtre principale passée en paramètre
         self.master.title("Alteir Dialogue Extractor")
-        self.master.geometry("1400x800")
+        self.master.geometry("1400x900")
 
         # Configuration des styles globaux (optionnel)
         self.style = ttk.Style()

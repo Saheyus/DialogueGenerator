@@ -1,8 +1,6 @@
 # extractor.py
 import logging
 import json
-from .models import Dialogue, Fragment, Entity, Connection
-from typing import Set
 from dataclasses import asdict  # Import asdict to convert dataclass to dictionary
 
 class DialogueFlowExtractor:
